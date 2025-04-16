@@ -9,3 +9,4 @@ The application includes functionality to:
 - Book a ticket
 - Cancel a reservation
 - List all bookings
+- List all future flights
