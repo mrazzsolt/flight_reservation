@@ -1,0 +1,4 @@
+flight_number,type,destination,capacity,distance_km
+DOF536,DomesticFlight,Debrecen,3,230
+INF210,InternationalFlight,London,25,1500
+INF354,InternationalFlight,Parizs,30,1245
